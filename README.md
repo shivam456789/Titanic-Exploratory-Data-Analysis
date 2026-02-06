@@ -66,5 +66,4 @@ Exploratory Data Analysis revealed that **gender, passenger class, and age** wer
 Shivam Deshpande
 ### Email:
 shivamdeshpande379@gmail.com
-The Titanic dataset is excellent for beginners to practice data analysis and visualization skills.
 
